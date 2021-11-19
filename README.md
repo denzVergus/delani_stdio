@@ -2,7 +2,7 @@
 
 ## Author
 
-[Owiti-Charles](https://github.com/Vergus866)
+[Denis Kipchirchir](https://github.com/Vergus866)
 
 ## Description
 
