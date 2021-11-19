@@ -2,7 +2,11 @@
 
 ## Author
 
+<<<<<<< HEAD
 [Owiti-Charles](https://github.com/Vergus866)
+=======
+[Denis Kipchirchir](https://github.com/Vergus866)
+>>>>>>> 582cede106d1b992b7323458078857fff0c6b385
 
 ## Description
 
