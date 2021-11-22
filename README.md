@@ -11,8 +11,6 @@ This project is a web application for Delani studio that shows details about the
 
 ## Live Page 
 This is the link to my live page https://vergus866.github.io/delani_stdio/
- 
-
 
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
