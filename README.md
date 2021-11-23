@@ -17,7 +17,7 @@ This is the link to my live page https://vergus866.github.io/delani_stdio/
 
 * git clone ```hhttps://github.com/vergus866/delani_stdio.git```
 
-* cd Delani-Studio
+* cd delani_studio
 
 * code . or atom . depending on the text editor of your choise.
 
