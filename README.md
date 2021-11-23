@@ -36,7 +36,7 @@ This is the link to my live page https://vergus866.github.io/delani_stdio/
 |  Enter your name  |   Denis Kipchirchir |     |
 | Enter your Email Address  | denzvergus37@gmail.com |   |
 | Enter your message or comment   |  I would love to work with you     |     |
-| Press Submit|     |Pop up "Owiti Charles , we have received your message. Thank you for reaching out to us.|
+| Press Submit|     |Pop up "Denis Kipchirchir , we have received your message. Thank you for reaching out to us.|
 
 ## Known Bugs
 * The site is not responsive enough for some devices. 
